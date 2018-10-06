@@ -5,7 +5,8 @@
       "outDir": "./lib/",
       "module": "es6",
       "target": "es5",
-      "strict": true
+      "strict": true,
+      "declaration": true
     }
   }
   

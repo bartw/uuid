@@ -1,0 +1,22 @@
+{
+  "name": "uuid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bartw/uuid.git"
+  },
+  "author": "Bart Wijnants",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bartw/uuid/issues"
+  },
+  "homepage": "https://github.com/bartw/uuid#readme",
+  "devDependencies": {
+    "typescript": "^3.1.1"
+  }
+}
